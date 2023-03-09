@@ -7,3 +7,14 @@
     max-width: 700px;
     margin: auto;
 }
+.weather{
+    margin-top: 5rem;
+    background: #fff;
+    height: 500px;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+.content_title{
+    padding-top: 3rem;
+}
